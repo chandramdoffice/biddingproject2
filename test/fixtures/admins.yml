@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  adminname: MyString
+  password: MyString
+  adminid: 1
+  taskid: 1
+  taskname: MyString
+
+two:
+  adminname: MyString
+  password: MyString
+  adminid: 1
+  taskid: 1
+  taskname: MyString
